@@ -20,7 +20,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 ## Option 1: Heroes of Pymoli
 
-https://github.com/Elliott-dev/-pandas-challenge-/blob/main/Instructions/Images/Fantasy.png?raw=true
+![image](https://user-images.githubusercontent.com/94668201/157747255-cebd44f5-d52d-4e82-8a4c-101442efadb0.png)
 
 Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
